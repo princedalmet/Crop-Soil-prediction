@@ -72,3 +72,8 @@ When humidity is less than 65, almost same phosphor levels(approx 14 to 25) are 
 
 ![9](https://user-images.githubusercontent.com/99526815/153738930-bc622b2f-4628-4c3f-9170-2d7b3e49d06d.PNG)
 
+![10](https://user-images.githubusercontent.com/99526815/153807415-05699ea5-9a00-403c-a4a0-bd07a75ec2c8.PNG)
+
+![11](https://user-images.githubusercontent.com/99526815/153807427-7a124771-f201-41af-b309-5ac5bc4cf60e.PNG)
+
+![12](https://user-images.githubusercontent.com/99526815/153807439-c08c62d4-f17b-4fd9-9f10-3079d33ce047.PNG)
